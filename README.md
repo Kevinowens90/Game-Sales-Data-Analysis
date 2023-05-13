@@ -9,7 +9,7 @@ The purpose of this project is to analyze data on game sales in order to identif
 - Publisher
 - Region
 - Sales (in millions)
-The data set contains information on over 16,000 games that were released between 1980 and 2020. The data is sourced from the website Kaggle.
+The data set contains information on over 16,000 games that were released between 1980 and 2020. The data is sourced from the website [@Kaggle](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings).
 
 
 ## EDA
