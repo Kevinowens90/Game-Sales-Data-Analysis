@@ -31,7 +31,7 @@ The results of this data analysis can be used by game developers, publishers, an
 Based on the results of this data analysis, I recommend the following:
 
 - Game developers should focus on developing games in popular genres, such as action, sports, shooter, and role-playing games.
-- Game publishers should target their games at the largest markets which is North America.
+- Apart from North America game puplishers should also focus on publishing more games into the European market.
 - Retailers should stock their shelves with the most popular action games.
 
 
